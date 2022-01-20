@@ -22,7 +22,7 @@ ol li {
     padding: 5px;color:#000;
 }
 
-li > crossOutButton {
+li > deleteButton {
 	background: none;
 	border: none;
 	float: right;
